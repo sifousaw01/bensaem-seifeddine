@@ -127,6 +127,59 @@ h2{
     color: #fff;
 
 }
+@media only screen and(max-width: 1026px) {
+    #fbc{
+
+        margin: 0;
+        position: absolute;
+        top: 80%;
+        left: 10%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+
+}
+#gml{
+
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 28%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+#inst{
+
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 46%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+#snpt{
+
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 64%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+#tok{
+
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 82%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+}
 
 
 
