@@ -1,5 +1,5 @@
 body{
-    background-image:url(backing.png); 
+    background-image:url(back.jpg); 
     background-repeat:repeat;
     
     background-attachment: fixed;  
@@ -7,12 +7,12 @@ body{
 }
  
 .pic{
-    border-radius: 90%;
+    border-radius: 91%;
     position: absolute;
     top: 10%;
     left: 42%;
     
-    max-width: 200px;
+    max-width: 210px;
     
 }
 /**#hed{
@@ -26,8 +26,8 @@ body{
     color: rgb(89,89,245);
     text-align: center; 
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    top: 21%;
-    left: 33%;
+    top: 23%;
+    left: 45%;
     position: absolute;
 }
 .pen{
@@ -58,21 +58,21 @@ button{
 
 }  
 .ins{
-    background-color: #ff008886;
+    background-color: #ff0180;
     font-size:24px;
     padding: 10px 33px;
     top: 42%;
     left: 52%;
 }
 .gm{
-    background-color: #ff0000;
+    background-color: #eeff00;
     font-size: 24px;
     padding: 10px 49px;
     top: 54%;
     left: 52%;
 }
 .web{
-    background-color: #48ff00;
+    background-color: #0000006e;
     font-size: 24px;
     padding: 5px 38px;
     top: 66%;
@@ -110,7 +110,7 @@ h2{
 
 }
 .htwo{
-    color:rgb(255, 0, 0);
+    color:rgba(255, 251, 0, 0.521);
     margin: 0;
     position: absolute;
     top: 93%;
@@ -180,7 +180,6 @@ h2{
 }
 
 }
-
 
 
 
